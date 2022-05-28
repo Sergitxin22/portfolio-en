@@ -1,0 +1,59 @@
+################### Home ###################
+titulo-web=>Soy un apasionado del desarrollo web de Bilbao
+inicio=>Inicio
+sobre-mi=>Sobre mí
+portafolio=>Portafolio
+contacto=>Contacto
+
+################### Sobre mí ###################
+aprende-mas-sobre-mi=>Aprende más sobre mí
+desarrollador-web=>Desarrollador de Aplicaciones Web
+desarrolladores=>Los desarrolladores participamos en el proceso de elaboración y diseño de nuevos sistemas, a partir del dominio de una gran variedad de lenguajes de programación.
+edad-t=>Edad:
+edad-r=>18 años
+web-t=>Página web:
+ciudad-t=>Ciudad:
+ciudad-r=>Bilbao, España
+estudios-t=>Estudios:
+estudios-r=>Grado Superior
+habilidades=>Habilidades
+
+################### Curriculum ###################
+experiencia=>Esta es mi experiencia
+actualidad=>Actualidad
+
+######################################
+formacion=>Formación
+
+desarrollo-web=>Desarrollo de Aplicaciones Web
+desarrollo-web-d=>Este grado me permitío aprender a desarrollar programas para entornos web utilizando los lenguajes de programación adecuados y aplicando las soluciones idóneas para cada problema específico planteado.
+
+bachiller=>Bachillerato Tecnológico
+bachiller-d=>El bachillerato de la modalidad de ciencias tecnológicas me permitío adquirir los conocimientos y destrezas básicas en el ámbito de las tecnologías.
+
+######################################
+formacion-complementaria=>Formación Complementaria
+
+protege-tu-negocio=>Protege tu Negocio: Ciberseguridad en el Teletrabajo
+protege-tu-negocio-d1=>En este curso aprendí cómo adaptarme a esta modalidad de trabajo remoto de forma eficiente, cumpliendo con las normativas tanto para el trabajador como para la empresa.
+protege-tu-negocio-d2=>Curso Desarrollado por INCIBE en colaboración con Google Actívate
+
+master-python=>Máster en Python: Aprender Python 3, Django, Flask y Tkinter
+master-python-d1=>In this course I learned Python, today's most popular multi-purpose programming language and all the most in-demand technologies surrounding it. The course included:
+master-python-d2=>Programación Orientada a Objetos en Python.
+master-python-d3=>Bases de datos SQL.
+master-python-d4=>Módulos y frameworks.
+master-python-d5=>Tkinter, para crear aplicaciones de escritorio con interfaz gráfica.
+master-python-d6=>Desarrollo web.
+master-python-d7=>Django, el framework de desarrollo web para Python más popular.
+master-python-d8=>Flask, el moderno framework para desarrollar aplicaciones web.
+
+################### Portafolio ###################
+mis-trabajos=>Mis trabajos
+todo=>Todo
+componente=>Componente
+
+################### Contacto ###################
+contactame=>Contáctame
+redes=>Redes Sociales
+escribeme=>Escríbeme
